@@ -43,7 +43,7 @@ const Hero = memo(() => {
         justify={'center'}
         wrap={'wrap'}
       >
-        <strong style={{ fontSize: 'min(56px, 8vw)' }}>LLM-HUB</strong>
+        <strong style={{ fontSize: 'min(56px, 8vw)' }}>LobeChat</strong>
         <span>{t('slogan.title')}</span>
       </Flexbox>
       <Flexbox
